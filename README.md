@@ -27,5 +27,7 @@ Throughout analysis, we can observe the stark difference between people who are 
 
 ## REPOSITORY DETAILS
 Access -
-1. [Final Presentation - Summary of Approach and Results]()
-2. [Final Code]()
+1. [Final Presentation - Summary of Approach and Results](https://github.com/palakh/Suicidal-tendencies-in-Depression-posts/blob/master/Suicide%20and%20Depression%20Analysis.pptx)
+2. [Topic Modeling](https://github.com/palakh/Suicidal-tendencies-in-Depression-posts/blob/master/Topic%20Modeling.ipynb)
+3. [Logistic Regression](https://github.com/palakh/Suicidal-tendencies-in-Depression-posts/blob/master/Logistic%20Regression.ipynb)
+4. [MDS Plot,Sentiment Analysis,Cosine Similarity](https://github.com/palakh/Suicidal-tendencies-in-Depression-posts/blob/master/tf-idf%2BMDS%2BCosine.ipynb) 
